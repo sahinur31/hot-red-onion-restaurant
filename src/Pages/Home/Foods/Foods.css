@@ -1,0 +1,11 @@
+.card:hover {
+    box-shadow: 1px 3px 13px 2px #ccc;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color:#F91944;
+    background: none;
+    border-bottom: 1px solid #F91944;
+}
+.nav-pills .nav-link {
+    border-radius: 0;
+}

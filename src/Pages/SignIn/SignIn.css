@@ -1,0 +1,11 @@
+.login-form input {
+    background-color: #F5F5F5;
+    color: #898989;
+    border: none;
+    padding: 20px;
+}
+.form-control:focus {
+    background-color: #F5F5F5;
+    color: #898989;
+    border:none;
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Healthy Meal Plan",
+    "price": 44,
+    "img": "https://i.ibb.co/BtYH6pk/breakfast1.png",
+    "description": "How we dream about our future"
+  },
+  {
+    "id": 2,
+    "name": "Fried chicken Bento",
+    "price": 70,
+    "img": "https://i.ibb.co/F361ft3/breakfast2.png",
+    "description": "How we dream about our future"
+  },
+  {
+    "id": 3,
+    "name": "Apple Frangipan Tart",
+    "price": 33,
+    "img": "https://i.ibb.co/4Shz4M7/breakfast3.png",
+    "description": "How we dream about our future"
+  },
+  {
+    "id": 4,
+    "name": "Eggs Benedits",
+    "price": 28,
+    "description": "How we dream about our future",
+    "img": "https://i.ibb.co/YckZRdx/breakfast4.png"
+  },
+  {
+    "id": 5,
+    "name": "Apple & Blackberry",
+    "price": 83,
+    "description": "How we dream about our future",
+    "img": "https://i.ibb.co/71HH7J8/breakfast5.png"
+  },
+  {
+    "id": 6,
+    "name": "Apam balik",
+    "price": 29,
+    "description": "How we dream about our future",
+    "img": "https://i.ibb.co/nmmSwws/breakfast6.png"
+  }
+]

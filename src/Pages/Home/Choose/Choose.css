@@ -1,0 +1,21 @@
+.single-choose-right button {
+    border: none;
+    background: none;
+    color: cornflowerblue;
+}
+.single-choose-right .icon-see {
+    background-color: #19E270;
+    color: #fff;
+    border-radius:50%;
+    width: 10px;
+    height: 10px;
+}
+.single-choose-left {
+    font-size: 20px;
+    color: #fff;
+    width: 50px;
+    height: 50px;
+    margin-right: 20px;
+    border-radius: 50%;
+    padding: 11px;
+}

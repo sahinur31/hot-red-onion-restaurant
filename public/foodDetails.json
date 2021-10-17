@@ -1,0 +1,52 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "title": "Light Breakfast",
+      "name": "Healthy Meal Plan",
+      "price": 44,
+      "img": "https://i.ibb.co/BtYH6pk/breakfast1.png",
+      "details": "When it comes to the ‘official version’, so to speak, of food blogging, the culinary magazines are on top. This is literary the case with Food52, which ranks amongst the gods of the social media food show with no less than 2.7m followers on Instagram. Like all the respected magazines out there, Food52 has its “how to” perks – we can assure you, you won’t get enough of it."
+    },
+    {
+      "id": 2,
+      "title": "Light Breakfast",
+      "name": "Fried chicken Bento",
+      "price": 70,
+      "img": "https://i.ibb.co/F361ft3/breakfast2.png",
+      "details": "When it comes to the ‘official version’, so to speak, of food blogging, the culinary magazines are on top. This is literary the case with Food52, which ranks amongst the gods of the social media food show with no less than 2.7m followers on Instagram. Like all the respected magazines out there, Food52 has its “how to” perks – we can assure you, you won’t get enough of it."
+    },
+    {
+      "id": 3,
+      "title": "Light Breakfast",
+      "name": "Apple Frangipan Tart",
+      "price": 33,
+      "img": "https://i.ibb.co/4Shz4M7/breakfast3.png",
+      "details": "When it comes to the ‘official version’, so to speak, of food blogging, the culinary magazines are on top. This is literary the case with Food52, which ranks amongst the gods of the social media food show with no less than 2.7m followers on Instagram. Like all the respected magazines out there, Food52 has its “how to” perks – we can assure you, you won’t get enough of it."
+    },
+    {
+      "id": 4,
+      "title": "Light Breakfast",
+      "name": "Eggs Benedits",
+      "price": 28,
+      "img": "https://i.ibb.co/YckZRdx/breakfast4.png",
+      "details": "When it comes to the ‘official version’, so to speak, of food blogging, the culinary magazines are on top. This is literary the case with Food52, which ranks amongst the gods of the social media food show with no less than 2.7m followers on Instagram. Like all the respected magazines out there, Food52 has its “how to” perks – we can assure you, you won’t get enough of it."
+    },
+    {
+      "id": 5,
+      "title": "Light Breakfast",
+      "name": "Apple & Blackberry",
+      "price": 83,
+      "img": "https://i.ibb.co/71HH7J8/breakfast5.png",
+      "details": "When it comes to the ‘official version’, so to speak, of food blogging, the culinary magazines are on top. This is literary the case with Food52, which ranks amongst the gods of the social media food show with no less than 2.7m followers on Instagram. Like all the respected magazines out there, Food52 has its “how to” perks – we can assure you, you won’t get enough of it."
+    },
+    {
+      "id": 6,
+      "title": "Light Breakfast",
+      "name": "Apam balik",
+      "price": 29,
+      "img": "https://i.ibb.co/nmmSwws/breakfast6.png",
+      "details": "When it comes to the ‘official version’, so to speak, of food blogging, the culinary magazines are on top. This is literary the case with Food52, which ranks amongst the gods of the social media food show with no less than 2.7m followers on Instagram. Like all the respected magazines out there, Food52 has its “how to” perks – we can assure you, you won’t get enough of it."
+    }
+  ]
+}

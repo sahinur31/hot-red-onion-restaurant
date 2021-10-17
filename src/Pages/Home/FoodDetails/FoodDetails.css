@@ -1,0 +1,11 @@
+.food-details-left .input-group{
+    width:22%;
+    border: 1px solid #ccc;
+}
+.food-details-left .form-control{
+    border: none;
+    background-color: transparent;
+}
+.food-details-left p{
+    line-height:30px
+}

@@ -1,7 +1,16 @@
-.App {
-  text-align: center;
-}
 
+.theme-color {
+  color: #F91944;
+}
+.theme-bg {
+  background-color: #F91944 !important;
+}
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Montserrat', sans-serif !important;
+}
+body {
+  font-family: 'Hind', sans-serif;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
